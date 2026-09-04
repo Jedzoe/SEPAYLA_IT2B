@@ -1,9 +1,10 @@
 import java.util.Scanner;
 
 public class Activity1 {
-Scanner sc = new Scanner(System.in);
+    Scanner sc = new Scanner(System.in);
 
     public void userGreetings(){
+
         System.out.print("Enter Name: ");
         String name = sc.next();
         System.out.print("Enter Birth year: ");
