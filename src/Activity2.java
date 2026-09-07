@@ -5,9 +5,9 @@ public class Activity2 {
 
     public void cinemaTicketSystem(){
         System.out.println("======= CINEMA TICKET SYSTEM =======");
-        System.out.println("1. REGULAR");
-        System.out.println("2. 3D");
-        System.out.println("3. IMAX");
+        System.out.println("1. REGULAR - 350");
+        System.out.println("2. 3D - 400");
+        System.out.println("3. IMAX - 450");
         System.out.println("====================================");
         System.out.print("Enter Selection: ");
         int select = sc.nextInt();
